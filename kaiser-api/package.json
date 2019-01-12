@@ -1,0 +1,14 @@
+{
+  "name": "kaiser-api",
+  "private": "true",
+  "author": "CE",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "mysql": "^2.0.0-alpha8",
+    "orm": "^3.1.0"
+  }
+}
